@@ -56,6 +56,40 @@ Sigma Level: ~2.0 (low process performance)
 | Blood Test Satisfaction   | 45.8%    | 85.5%    |
 | Consultation Satisfaction | 47.6%    | 86.5%    |
 
+## Visuals
+### Waiting Time Comparison Before & After
+
+Significant reduction achieved through Lean Six Sigma interventions:
+
+![Waiting Time Comparison](images/waiting_time_comparison.png)
+
+---
+
+### Patient Satisfaction Improvement
+
+Improvement across all key satisfaction metrics:
+
+![Satisfaction Improvement](images/satisfaction_improvement.png)
+
+---
+
+### Root Cause Analysis (Fishbone Diagram)
+
+![Fishbone Analysis](images/fishbone_analysis.png)
+
+---
+
+### 🗂SIPOC Diagram of Chemo OPD
+
+![SIPOC Diagram](images/sipoc_chemo.png)
+
+---
+
+### Process Flow (Before Improvement)
+
+![Chemo OPD Flow](images/chemo_process_flow.png)
+
+
 
 ## Tools
 Lean Six Sigma • DMAIC • Healthcare Analytics • KPI Design • Process Mapping • Fishbone Diagrams • Dashboard Visualization
