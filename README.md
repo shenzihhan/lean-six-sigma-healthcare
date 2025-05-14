@@ -79,7 +79,7 @@ Improvement across all key satisfaction metrics:
 
 ---
 
-### 🗂SIPOC Diagram of Chemo OPD
+### SIPOC Diagram of Chemo OPD
 
 ![SIPOC Diagram](images/sipoc_chemo.png)
 
