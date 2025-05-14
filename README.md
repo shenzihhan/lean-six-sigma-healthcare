@@ -1,6 +1,9 @@
 # Reducing Chemotherapy Waiting Times Using Lean Six Sigma
 This project demonstrates the application of Lean Six Sigma (LSS) principles using the DMAIC framework to reduce outpatient chemotherapy waiting times and improve patient satisfaction, based on a case study from Cathay General Hospital.
 
+**View Slides**: [Google Slides Presentation](https://docs.google.com/presentation/d/1cS4mt17c3cQ2dUgpl64uaue7FsnduJf4/edit?usp=sharing&ouid=104301292306575929503&rtpof=true&sd=true)
+
+
 ## Problem
 Outpatient chemotherapy patients, particularly those with gynecologic cancer, experienced excessive waiting times due to bottlenecks in scheduling, blood testing, bed allocation, and staff coordination. The average waiting time was 109 minutes, and patient satisfaction was only 57.3%.
 
